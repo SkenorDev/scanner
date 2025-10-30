@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: a830c38125a7d794ea0c1dbf0e3aca2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 213094857847440941
+    second: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+      1_0
+  - first:
+      213: -1777294910235623442
+    second: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+      1_1
+  - first:
+      213: 5908488443538630598
+    second: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+      1_2
+  - first:
+      213: -7775767147275877280
+    second: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+      1_3
+  - first:
+      213: -7894244239115295005
+    second: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+      1_4
+  - first:
+      213: 2159431961026934548
+    second: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+      1_5
+  - first:
+      213: 108840971125658943
+    second: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+      1_6
+  - first:
+      213: -4146623659626813305
+    second: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+      1_7
+  - first:
+      213: -1513602016461882011
+    second: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+      1_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+        1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 179
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d268579e4a015f200800000000000000
+      internalID: 213094857847440941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+        1_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 929
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefbb4612b7c557e0800000000000000
+      internalID: -1777294910235623442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+        1_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 940
+        width: 253
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7ee945fea2ff150800000000000000
+      internalID: 5908488443538630598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+        1_3
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 929
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06408723afce61490800000000000000
+      internalID: -7775767147275877280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+        1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 980
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6eb55a0b2027290800000000000000
+      internalID: -7894244239115295005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+        1_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417b2a96de7d7fd10800000000000000
+      internalID: 2159431961026934548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+        1_6
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3514fc594ea28100800000000000000
+      internalID: 108840971125658943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+        1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 183
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788a6b650cb3476c0800000000000000
+      internalID: -4146623659626813305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358
+        1_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 6
+        width: 265
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d79754cfa9efae0800000000000000
+      internalID: -1513602016461882011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358 1_0: 213094857847440941
+      detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358 1_1: -1777294910235623442
+      detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358 1_2: 5908488443538630598
+      detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358 1_3: -7775767147275877280
+      detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358 1_4: -7894244239115295005
+      detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358 1_5: 2159431961026934548
+      detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358 1_6: 108840971125658943
+      detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358 1_7: -4146623659626813305
+      detailed-illustration-of-a-water-strider-insect-on-transparent-background-png-850194358 1_8: -1513602016461882011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
