@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "prototype-2-bug-game-main.sln"
+    "dotnet.defaultSolution": "scanner.sln"
 }
